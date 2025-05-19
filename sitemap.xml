@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://cmpati.github.io/noticias/categorias/</loc>
+    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cmpati.github.io/noticias/categorias/not%C3%ADcias-da-c%C3%A2mara/</loc>
+    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cmpati.github.io/noticias/2025/noticias/</loc>
+    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cmpati.github.io/noticias/2025/9524/</loc>
+    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cmpati.github.io/noticias/2025/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cmpati.github.io/noticias/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cmpati.github.io/noticias/search/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cmpati.github.io/noticias/tags/</loc>
+  </url>
+</urlset>

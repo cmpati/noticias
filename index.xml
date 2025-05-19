@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arquivo de Notícias - Câmara Municipal de Pouso Alegre on Notícias CMPA</title>
+    <link>https://cmpati.github.io/noticias/</link>
+    <description>Recent content in Arquivo de Notícias - Câmara Municipal de Pouso Alegre on Notícias CMPA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cmpati.github.io/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sessão Itinerante no bairro Cruz Alta é rejeitada</title>
+      <link>https://cmpati.github.io/noticias/2025/noticias/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cmpati.github.io/noticias/2025/noticias/</guid>
+      <description>A Câmara Municipal rejeitou nesta terça-feira (29) o Requerimento Nº 55/2025, de autoria do vereador Dr. Edson, que propunha a realização de uma Sessão Itinerante no bairro Cruz Alta, no dia 10 de julho, às 19h30. A proposta visava ouvir de perto as demandas da comunidade local.&#xA;Votaram a favor os vereadores Delegado Renato Gavião, Lívia Macedo, Odair Quincote, Leandro Morais, Fred Coutinho e Israel Russo. Contra, votaram os vereadores Davi Andrade, Dionísio, Elizelto Guido, Ely da Autopeças, Hélio Carlos de Oliveira, Miguel Tomatinho do Hospital, Oliveira e Rogerinho da Policlínica.</description>
+    </item>
+    <item>
+      <title>REQUERIMENTO PARA SESSÃO ITINERANTE NOS BAIRROS CAJURU, ANHUMAS, FARIAS E IMBUIA É APROVADO</title>
+      <link>https://cmpati.github.io/noticias/2025/9524/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cmpati.github.io/noticias/2025/9524/</guid>
+      <description>O Requerimento nº 64/2025, de autoria do vereador Odair Quincote, solicita a realização de uma Sessão Itinerante da Câmara Municipal nos bairros Cajuru, Anhumas, Farias e Imbuia.&#xA;A proposta justifica-se pela importância de ouvir diretamente a população dessas regiões, levando o Legislativo até as comunidades e promovendo um canal de escuta ativa e participação cidadã.&#xA;Resultado da votação:&#xA;Favoráveis: Dr. Edson, Delegado Renato Gavião, Israel Russo, Leandro Morais, Lívia Macedo, Odair Quincote, Fred Coutinho, Hélio Carlos de Oliveira</description>
+    </item>
+    <item>
+      <title>Busca de Notícias</title>
+      <link>https://cmpati.github.io/noticias/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cmpati.github.io/noticias/search/</guid>
+      <description>Utilize o campo abaixo para buscar em todas as notícias do site.</description>
+    </item>
+  </channel>
+</rss>
